@@ -1,0 +1,39 @@
+div#barraN {
+    color: rgb(94, 148, 94);
+    background-color: rgb(157, 189, 157);
+    border: 2px solid rgb(94, 148, 94);
+    border-radius: 5px;
+
+}
+
+div#texto {
+    color: rgb(94, 148, 94);
+    ;
+}
+
+div#img {
+    position: absolute;
+    left: 500px;
+    top: 200px;
+    overflow: hidden;
+}
+
+div#img2 {
+    position: absolute;
+
+    left: 500px;
+    top: 350px;
+    overflow: visible;
+
+}
+
+#cor {
+    background-color: rgb(221, 245, 221);
+}
+
+div#rodape {
+    background-color: rgb(157, 189, 157);
+    height: 200px;
+   border: 2px solid rgb(94, 148, 94);
+    border-radius: 5px;
+}
