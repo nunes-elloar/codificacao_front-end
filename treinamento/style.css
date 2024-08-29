@@ -1,9 +1,11 @@
 div#barraN {
     color: rgb(94, 148, 94);
     background-color: rgb(157, 189, 157);
-    border: 2px solid rgb(94, 148, 94);
-    border-radius: 5px;
-
+    border:2px solid rgb(94, 148, 94);
+    border-radius: 2px;
+    font-size: 23px;
+    
+   
 }
 
 div#texto {
@@ -28,12 +30,14 @@ div#img2 {
 }
 
 #cor {
-    background-color: rgb(221, 245, 221);
+    background-color: rgb(209, 230, 209);
+  margin: 0;
 }
 
 div#rodape {
     background-color: rgb(157, 189, 157);
     height: 200px;
    border: 2px solid rgb(94, 148, 94);
-    border-radius: 5px;
+    border-radius: 2px;
 }
+

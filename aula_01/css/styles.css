@@ -12,6 +12,9 @@ div#img{
     top: 20px;
     overflow: hidden;
 }
-.conteinar {
-    display: flex;
-} 
+ 
+.a{
+    color: aliceblue;
+    margin: 30px;
+
+}

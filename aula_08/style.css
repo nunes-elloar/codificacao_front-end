@@ -1,0 +1,23 @@
+.box-01{
+    width: 300px;
+    height: 200px;
+    background-color: cadetblue;
+    border: 1px solid #000;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    padding: 800px;
+}
+
+p{
+    text-align: center;
+}
+.box-02{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(74, 206, 211);
+    border: 1px solid #000;
+}
+body{
+    margin-top: 50px;
+}
