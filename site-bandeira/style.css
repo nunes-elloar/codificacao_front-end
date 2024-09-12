@@ -1,0 +1,175 @@
+
+.alagoas{
+display: flex;
+border: 1px solid black;
+width: 600px;
+
+}
+.alagoas-1{
+  width: 200px;
+  height: 400px;
+  background-color: red;
+}
+.alagoas-2{
+    width: 200px;
+    height: 400px;
+    background-image: url("Brasão_de_armas_do_Estado_de_Alagoas.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.alagoas-3{
+    width: 200px;
+    height: 400px;
+    background-color: blue;
+}
+
+
+
+.franca{
+    display: flex;
+    border: 1px solid black;
+    width: 600px;
+}
+.franca-1{
+    width: 200px;
+    height: 400px;
+    background-color: blue;
+}
+.franca-2{
+width: 200px;
+height: 400px;
+}
+.franca-3{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+}
+
+.italia{
+    display: flex;
+    border: 1px solid black;
+    width: 600px;
+}
+.italia1{
+    width: 200px;
+    height: 400px;
+    background-color: green;
+}
+.italia2{
+    width: 200px;
+    height: 400px;
+}
+.italia3{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+}
+
+
+.alemanha{
+    width: 600px;
+    border: 1px solid black;
+   flex-direction: column;
+   
+}
+.alemanha1{
+    width: 600px;
+    height: 150px;
+    background-color: black;
+}
+.alemanha2{
+    width: 600px;
+    height: 150px;
+    background-color: red;
+}
+.alemanha3{
+    width: 600px;
+    height:150px;
+    background-color: yellow;
+}
+
+
+.argentina{
+    width: 600px;
+    border: 1px solid black;
+    flex-direction: column;
+}
+.argentina1{
+    width: 600px;
+    height: 150px;
+    background-color: rgb(100, 178, 241);
+}
+.argentina2{
+    width: 600px;
+    height: 150px;
+    background-image: url("png-transparent-argentina-con-del-logos-estrella-logo-sol-mayo-escudo-tattoo-thumbnail.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.argentina3{
+    width: 600px;
+    height: 150px;
+    background-color: rgb(100, 178, 241);
+}
+
+
+.nigeria{
+    width: 600px;
+    border: 1px solid black;
+   display: flex;
+}
+.nigeria1{
+    width: 200px;
+    height: 400px;
+    background-color: rgb(40, 101, 40);
+}
+.nigeria2{
+    width: 200px;
+    height: 400px;
+}
+.nigeria3{
+    width: 200px;
+    height: 400;
+    background-color: rgb(40, 135, 40);
+}
+
+.holanda{
+    width: 600px;
+    border: 1px solid black;
+    flex-direction: column;
+}
+.holanda1{
+    width: 600px;
+    height: 150px;
+    background-color: rgb(251, 0, 0);
+}
+.holanda2{
+    width: 600px;
+    height: 150px;
+}
+.holanda3{
+    width: 600px;
+    height: 150px;
+    background-color: blue;
+}
+
+.austria{
+    width: 600px;
+    border: 1px solid black;
+}
+.austria1{
+    width: 600px;
+    height: 150px;
+    background-color: red;
+}
+.austria2{
+    width: 600px;
+    height: 150px;
+}
+.austria3{
+    width: 600px;
+    height: 150px;
+    background-color: red;
+}

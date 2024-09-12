@@ -3,6 +3,7 @@ height: 200px;
 background-color: aqua;
 display: flex;
 padding: 30px;
+
 }
 .item-1{
 background-color: rgb(255, 0, 0);

@@ -1,0 +1,43 @@
+body{
+    background-color: blanchedalmond;
+    position: relative;
+    border-radius: 10px;
+    height: 1500px;
+   
+   
+   
+    
+}
+
+.tudo{
+  width: 500px;
+  height: 1000px;
+    border-radius: 10px;
+    position: relative;
+    left: 500px;
+    background-color: white;
+    border: 20px solid white;
+    color: rgb(88, 77, 77);
+  
+}
+.omelette{
+    color: black;
+}
+img{
+    border-radius: 5px;
+}
+
+.passa{
+    background-color: rgb(255, 244, 255);
+    border-radius: 10px;
+   position: relative;
+    width: 450px; 
+    color: rgb(88, 77, 77);
+    left: 25px;
+}
+.paragra{
+    color:hsl(332, 51%, 32%)
+}
+h1{
+    color: hsl(14, 45%, 36%)
+}

@@ -1,9 +1,63 @@
-
-.container{
-    margin: 0;
+body{
+    background-color: hsl(30, 38%, 90);
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
-.
+.primaria{
+    background-color: hsl(00, 00%, 100%);
+    width: 560px;
+    height: 480px;
+    border-radius: 10px;
+    display: flex;
+}
+img{
+    width: 280px;
+    height: 480px;
+    border-radius: 10px;
+}
+.tipo{
+    font-size: 30px;
+    border: 30px;
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 5px;
+}
+.tipo2{
+    font-size: 30px;
+    margin: 30px;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+.tipo3{
+    font-size: 14px;
+    margin: 30px;
+    align-items: center;
+    justify-content: center;
+    font-family:  "Montserrat", sans-serif;
+}
+.preco{
+    font-size: 35px;
+    margin: 35px;
+    align-items: center;
+    justify-content: center;
+    font-family:  "Montserrat", sans-serif; 
+    font-weight: bold;
+    color: hsl(158, 36%, 37%); 
+}
+button{
+    background-color: hsl(30, 38%, 90);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 50px;
+    margin: 30px; 
+}
+span{
+    color: gray;
+    margin-right: 30px;
+    font-size: 15px;
+}
