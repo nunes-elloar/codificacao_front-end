@@ -1,8 +1,10 @@
+
 body{
     background-color: blanchedalmond;
     position: relative;
     border-radius: 10px;
     height: 2000px;
+    margin: 0%;
     
 }
 .principal{
@@ -11,7 +13,7 @@ body{
 
 .tudo{
   width: 500px;
-  height: 1440px;
+  height: 1500px;
     border-radius: 10px;
     position: relative;
     top: 80px;
@@ -19,6 +21,7 @@ body{
     background-color: white;
     border: 20px solid white;
     color: rgb(88, 77, 77);
+    font-family: "Young Serif", serif;
   
 }
 .omelette{
@@ -30,14 +33,17 @@ img{
 
 .passa{
     background-color: rgb(255, 244, 255);
+    height: 125px;
     border-radius: 10px;
    position: relative;
     width: 450px; 
     color: rgb(88, 77, 77);
     left: 25px;
+    font-family: "Outfit", sans-serif;;
 }
 .paragra{
-    color:hsl(332, 51%, 32%);
+    color: hsl(332, 51%, 32%);
+    /* color:hsl(332, 37%, 49%); */
   
 }
 h1{
@@ -50,7 +56,7 @@ h1{
     color: hsl(14, 45%, 36%);
 }
 .a{
- word-spacing: 100px;
+    word-spacing: 100px;
 
  
 }
